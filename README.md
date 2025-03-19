@@ -7,7 +7,7 @@
 - [Prerequisites](#prerequisites)
 - [Web Application Usage](#web-application-usage)
 - [Disccussion of Result](#discussion-of-result)
-- [Deploment](#deployment)
+- [Deployment](#deployment)
 
 
 ## Project Preview
