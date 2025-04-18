@@ -1,7 +1,7 @@
 # Project Title: Kyphosis Detection System
 
 ## To access Kyphosis Detection System App
-<a href="https://kyphosis-prediction-app-pwgrqpzbyzcmhyi3ah2w6d.streamlit.app/"Access the app></a>
+<a href="https://kyphosis-prediction-app-pwgrqpzbyzcmhyi3ah2w6d.streamlit.app/">Access the app</a>
 
 ## Table of Content
 - [Project Preview](#project-preview)
